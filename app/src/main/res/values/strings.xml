@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BGH 10th Anniversary Trivia</string>
+
+    <!--Strings for questions go here-->
+    <string name="question1">1. All of the songs in AN AMERICAN WEREWOLF IN LONDON have the word \"howl\" in the title.</string>
+    <string name="question2">2. Michael Myer\'s middle name is Audrey.</string>
+    <string name="question3">3. The stars of which two movies were hired from a single shared casting session.</string>
+    <string name="question4">4. Nick Castle, who played Michael Myers in the original HALLOWEEN, went on to direct which two of the following family movies?</string>
+    <string name="question5">5. Which is the only FRIDAY THE 13TH movie with no nudity?</string>
+    <string name="question6">6. Which horror Which horror movie was the first American film to show a flushing toilet?</string>
+
+    <!--Strings for answers go here-->
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="ques3answerA">Carrie</string>
+    <string name="ques3answerB">Star Wars</string>
+    <string name="ques3answerC">The Hills Have Eyes</string>
+    <string name="ques3answerD">Saturday Night Fever</string>
+    <string name="ques4answerA">Problem Child</string>
+    <string name="ques4answerB">The Last Starfighter</string>
+    <string name="ques4answerC">Space Camp</string>
+    <string name="ques4answerD">Dennis the Menace</string>
+    <string name="ques5hint">Just write the number.</string>
+    <string name="ques6hint">FLUSH.</string>
+    <string name="submit">Submit</string>
+
+</resources>
